@@ -1,0 +1,23 @@
+/*
+Theme Name: Fictive Child
+Theme URI: -
+Description: Fitive WordPress Theme Child
+Version: 1.0
+Template: fictive
+License:
+License URI:
+*/
+
+.hentry:before {
+    z-index: 2;
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+.widget {
+	margin: 0;
+}
+
+.site-branding {
+	margin: 0;
+}
